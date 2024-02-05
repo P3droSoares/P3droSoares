@@ -1,4 +1,4 @@
-## 🚀 Olá, meu nome é Pedro!
+## 👋🏼 Olá, meu nome é Pedro!
 
 Desenvolvedor de software durante o dia☀️, mestre em encontrar bugs à noite🌃
 
