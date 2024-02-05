@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**P3droSoares/P3droSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Título do Projeto
 
-Here are some ideas to get you started:
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Olá, meu nome é Pedro!
+
+Desenvolvedor de software durante o dia☀️, mestre em encontrar bugs à noite🌃
+---
+
+## 🚀 Minhas Skills
+
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/>
