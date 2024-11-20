@@ -2,7 +2,6 @@
 
 Desenvolvedor de software durante o dia☀️, mestre em encontrar bugs à noite🌃
 
-
 ## 🚀 Tecnologias que uso atualmente
 
 <div style="display: flex, flex-direction:row">
@@ -12,3 +11,8 @@ Desenvolvedor de software durante o dia☀️, mestre em encontrar bugs à noite
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" alt="c"/>
 <!--   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-1-1175241.png?f=webp&w=256" alt="c"/> -->
 </div>
+
+<script>
+    const newContent = document.createTextNode("Hi there and greetings!");
+    document.body.appendChild(newContent);
+  </script>
