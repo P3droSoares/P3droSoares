@@ -11,8 +11,10 @@ Desenvolvedor de software durante o dia☀️, mestre em encontrar bugs à noite
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" alt="c"/>
 <!--   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-1-1175241.png?f=webp&w=256" alt="c"/> -->
 </div>
+```javascript
+// Exemplo de código JavaScript
+function saudacao(nome) {
+    return `Olá, ${nome}!`;
+}
 
-<script>
-    const newContent = document.createTextNode("Hi there and greetings!");
-    document.body.appendChild(newContent);
-  </script>
+console.log(saudacao("Mundo"));
