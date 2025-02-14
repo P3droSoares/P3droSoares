@@ -30,5 +30,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Pedro%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p3drosoares/)](https://www.linkedin.com/in/p3drosoares/)
-[![Gmail Badge](https://img.shields.io/badge/-pedro.soares.contato@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.soares.contato@hotmail.com)](mailto:pedro.soares.contato@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-pedro.soares.contato@hotmail.com-376984?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.soares.contato@hotmail.com)](mailto:pedro.soares.contato@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
