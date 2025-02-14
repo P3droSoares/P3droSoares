@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<div class="tenor-gif-embed" data-postid="10070944540352006401" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ghost-cute-scary-gif-10070944540352006401">Ghost Cute Sticker</a>from <a href="https://tenor.com/search/ghost-stickers">Ghost Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/i8Mus4hXSQEAAAAj/ghost-cute.gif" alt="This is an animated gif image, but it does not move"/>
 
 ## Onde me encontrar
 
