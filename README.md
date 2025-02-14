@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29qZnR2Zml6YWxndngyYzg2cXQ0ZnI2ZzFldmI4OGxiaXU2ODB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ggbCzAotIx43ey4/giphy.gif" style="height:5rem;"  alt="This is an animated gif image, but it does not move"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY4NjlrdWdpbm8xMXMwemU3Yjl0djdmZTFrcHpyNWxsaG94d2hkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" style="height:5rem;"  alt="This is an animated gif image, but it does not move"/>
 
 
 ## Onde me encontrar
