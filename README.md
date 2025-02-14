@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<img src="https://media.tenor.com/i8Mus4hXSQEAAAAj/ghost-cute.gif" alt="This is an animated gif image, but it does not move"/>
+<img src="https://media.tenor.com/F8L6CcxU2y8AAAAj/mfpurr-mfpurrs.gif" style="height:5rem;"  alt="This is an animated gif image, but it does not move"/>
 
 ## Onde me encontrar
 
