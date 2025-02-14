@@ -31,4 +31,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Pedro%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p3drosoares/)](https://www.linkedin.com/in/p3drosoares/)
 [![Hotmail Badge](https://img.shields.io/badge/-pedro.soares.contato@hotmail.com-376984?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.soares.contato@hotmail.com)](mailto:pedro.soares.contato@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/P3droSoares?label=follow&style=social)](https://github.com/P3droSoares)
