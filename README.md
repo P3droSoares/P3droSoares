@@ -19,8 +19,8 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio 2022](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
+![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=flat&logo=visual-studio-2022)
+![Pycharm](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
